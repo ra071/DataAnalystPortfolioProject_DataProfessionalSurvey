@@ -1,5 +1,5 @@
-# IT Professionals Survey Dashboard (Power BI)
-This Power BI Dashboard visualizes insights from a survey conducted with 630 IT professionals from various countries, job roles, and backgrounds. The survey captured key information including job title, salary, age, gender, country of residence, favourite programming language, and satisfaction levels related to salary and work-life balance.
+# Data Professionals Survey Dashboard (Power BI)
+This Power BI Dashboard visualizes insights from a survey conducted with 630 Data professionals from various countries, job roles, and backgrounds. The survey captured key information including job title, salary, age, gender, country of residence, favourite programming language, and satisfaction levels related to salary and work-life balance.
 
 # Dashboard Overview
 The dashboard offers a clear and interactive way to explore the dataset using multiple visualizations, each designed to highlight a specific aspect of the data.
@@ -13,7 +13,7 @@ Type: Card
 
 Value: 630
 
-Purpose: Displays the total number of IT professionals who participated in the survey.
+Purpose: Displays the total number of Data professionals who participated in the survey.
 
 ### 2. Average Age
 Type: Card
@@ -63,7 +63,7 @@ Next: Data Engineer
 
 Lowest: Database Developer and Student
 
-Purpose: Compares average salaries across different IT job roles.
+Purpose: Compares average salaries across different Data related job roles.
 
 ### 8. Favorite Programming Language by Job Title
 Type: Stacked Column Chart
@@ -73,7 +73,7 @@ Highlight: Python received over 400 votes
 Purpose: Shows the most preferred programming languages segmented by job title.
 
 ## Key Insights
-Python is the most popular programming language among IT professionals.
+Python is the most popular programming language among Data professionals.
 
 Data Scientists and Data Engineers command the highest average salaries.
 
@@ -84,7 +84,7 @@ Overall satisfaction with salary (4.27/10) and work-life balance (5.74/10) shows
 ## Tools Used
 Microsoft Power BI – for data cleaning, modeling, and visualization
 
-Survey Data (CSV/Excel) – for the dataset of 630 IT professionals
+Survey Data (CSV/Excel) – for the dataset of 630 Data professionals
 
 ## Conclusion
-This dashboard provides valuable insights into the professional landscape of IT workers. It highlights trends in salaries, satisfaction, and preferences that can help organizations, job seekers, and researchers better understand the IT job market.
+This dashboard provides valuable insights into the professional landscape of Data workers. It highlights trends in salaries, satisfaction, and preferences that can help organizations, job seekers, and researchers better understand the Data job market.
